@@ -1,0 +1,11 @@
+C:\.net programs\visual studio\WFprj\WFprj\bin\Debug\WFprj.exe.config
+C:\.net programs\visual studio\WFprj\WFprj\bin\Debug\WFprj.exe
+C:\.net programs\visual studio\WFprj\WFprj\bin\Debug\WFprj.pdb
+C:\.net programs\visual studio\WFprj\WFprj\obj\Debug\WFprj.csprojAssemblyReference.cache
+C:\.net programs\visual studio\WFprj\WFprj\obj\Debug\WFprj.Properties.Resources.resources
+C:\.net programs\visual studio\WFprj\WFprj\obj\Debug\WFprj.csproj.GenerateResource.cache
+C:\.net programs\visual studio\WFprj\WFprj\obj\Debug\WFprj.csproj.CoreCompileInputs.cache
+C:\.net programs\visual studio\WFprj\WFprj\obj\Debug\WFprj.exe
+C:\.net programs\visual studio\WFprj\WFprj\obj\Debug\WFprj.pdb
+C:\.net programs\visual studio\WFprj\WFprj\obj\Debug\WFprj.WFEAaa.resources
+C:\.net programs\visual studio\WFprj\WFprj\obj\Debug\WFprj.WFERaa.resources
